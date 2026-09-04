@@ -47,4 +47,4 @@ This project was developed to practice **front-end web development, JavaScript D
 ## 👨‍💻 Author
 
 **Vivek**
-BCA Student
+
