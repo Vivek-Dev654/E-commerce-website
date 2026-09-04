@@ -38,7 +38,7 @@ ecommerce-website/
 ## 🌐 Live Demo
 
 **Live Website:**
-https://YOUR-USERNAME.github.io/ecommerce-website/
+https://vivek-dev654.github.io/E-commerce-website/
 
 ## 🎯 Purpose
 
